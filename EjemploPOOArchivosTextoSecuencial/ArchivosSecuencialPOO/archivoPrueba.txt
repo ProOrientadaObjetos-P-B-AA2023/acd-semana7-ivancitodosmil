@@ -1,0 +1,10 @@
+Estudiante1 9
+Estudiante2 2
+Estudiante3 1
+Estudiante4 5
+Estudiante5 5
+Estudiante6 8
+Estudiante7 4
+Estudiante8 9
+Estudiante9 10
+Estudiante10 4

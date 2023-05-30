@@ -56,7 +56,7 @@ class Profes implements Serializable {
     public String toString() {
         return "Profes{" +
                 "nombre='" + nombre + '\'' +
-                ", tipo='" + tipo + '\'' +
+                 ", tipo='" + tipo + '\'' +
                 '}';
     }
 }
